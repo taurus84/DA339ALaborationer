@@ -1,0 +1,15 @@
+CHANGELOG
+Version kontroll sker enligt: Semantic Versioning 2.0.0 http://semver.org/
+
+1.2.1
+ - Fixat en bugg där man inte kunde klicka på Cancel i metoden tryParseIntDialog() : int
+ 
+1.2.0
+ - Lagt till metod getDateTime() : String
+ - Lagt till metod formatDateTime() : String 
+ 
+1.1.0
+ - Lagt till metod randomColor() : Color 
+
+1.0.0
+ - Skapandes av HelperClass
